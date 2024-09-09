@@ -6,3 +6,4 @@ The `tree` command output has a lot of NBSP spaces, which can be removed by usin
 tree | sed 's/\xc2\xa0/ /g' > output.txt
 ```
 
+Copy from [askubuntu](https://askubuntu.com/a/1467798)
