@@ -30,6 +30,7 @@ Snippets of code.
 
 - [Sort In Go](go/sort-in-go.md)
 - [Monitor Channel](go/monitor-channel.md)
+- [Go Test Coverage](go/go-test-coverage.md)
 
 ### Linux
 
