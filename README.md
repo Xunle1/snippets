@@ -52,6 +52,7 @@ Snippets of code.
 
 ### Shell
 
+- [Convert Character Encoding](shell/convert-character-encoding.md)
 - [Remove NBSP Spaces From Tree Command Output](shell/remove-nbsp-spaces-from-tree-command-output.md)
 
 ### TypeScript
